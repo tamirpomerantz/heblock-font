@@ -61822,7 +61822,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2026 The Heblock Project Authors (https://github.com/tamirpomerantz/heblock)";
+value = "Copyright 2026 The Heblock Project Authors (https://github.com/tamirpomerantz/heblock-font)";
 }
 );
 },
