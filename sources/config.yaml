@@ -1,0 +1,39 @@
+# gftools builder configuration for Heblock.
+# https://github.com/googlefonts/gftools/blob/main/Lib/gftools/builder/__init__.py
+
+sources:
+  - Heblock.glyphs
+familyName: Heblock
+buildOTF: false
+buildTTF: true
+buildVariable: false
+buildStatic: true
+autohintTTF: true
+ttfaUseScript: true
+includeSourceFixes: true
+axisOrder:
+  - wght
+stat:
+  - name: Weight
+    tag: wght
+    values:
+      - name: Thin
+        value: 100
+      - name: ExtraLight
+        value: 200
+      - name: Light
+        value: 300
+      - name: Regular
+        value: 400
+        linkedValue: 700
+        flags: 2
+      - name: Medium
+        value: 500
+      - name: SemiBold
+        value: 600
+      - name: Bold
+        value: 700
+      - name: ExtraBold
+        value: 800
+      - name: Black
+        value: 900

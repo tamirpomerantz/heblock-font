@@ -1,0 +1,11 @@
+# This is the official list of project authors for copyright purposes.
+# The first name in the list appears as "Principal design" on Google Fonts.
+# This file is distinct from the CONTRIBUTORS.txt file.
+# See the latter for an explanation.
+#
+# Names should be added to this file as:
+# Name or Organization <email address>
+
+Tamir Pomerantz <https://tamirp.com>
+Colophon Foundry <https://www.colophon-foundry.org>
+Jonny Pinhorn <https://www.indiantypefoundry.com>
