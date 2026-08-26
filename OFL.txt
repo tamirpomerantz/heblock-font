@@ -4,6 +4,7 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
 https://openfontlicense.org
 
+
 -----------------------------------------------------------
 SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
 -----------------------------------------------------------
@@ -77,8 +78,8 @@ remain under this license does not apply to any document created
 using the Font Software.
 
 TERMINATION
-This license becomes null and void if any of the above conditions
-are not met.
+This license becomes null and void if any of the above conditions are
+not met.
 
 DISCLAIMER
 THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
