@@ -1,3 +1,0 @@
-Documentation images in this directory are copyright the Heblock Project Authors
-and licensed under the SIL Open Font License, Version 1.1.
-See OFL.txt in the repository root.
